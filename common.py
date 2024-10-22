@@ -6,9 +6,9 @@ from datetime import datetime, timezone
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Environment-specific variables
-API_URL = "https://192.168.72.48/ierest"
+API_URL = "https://x.x.x.x/ierest"
 USERNAME = "admin"
-PASSWORD = "IE!ATSP@ssw0rd?"
+PASSWORD = "password"
 
 def init_session():
     """
