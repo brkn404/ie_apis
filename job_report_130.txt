@@ -1,0 +1,23 @@
+
+    CyberSense Job Report
+    ---------------------
+    Job ID: 130
+    Policy: test_run6
+    State: Done
+    Start Time: 1729489586
+    End Time: 1729489618
+    Total Bytes in Backup: 1172553582
+    Unsupported Bytes: 585980328
+    Unsupported Percentage: 49%
+
+    Job Statistics:
+        ALERT: 
+    Job ID: 130
+    Policy Name: test_run6
+    Backup Server: test_run6
+    Backupset ID: test_run6-10.21.2024 at 01:46 AM-128-1
+    Error: 
+    Backup Time: 1729489588
+    Stats ID: 44
+    Indexing Status Messages: 
+    Infected: 0

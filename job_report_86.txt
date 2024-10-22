@@ -1,0 +1,23 @@
+
+    CyberSense Job Report
+    ---------------------
+    Job ID: 86
+    Policy: 1043
+    State: Done
+    Start Time: 1727198401
+    End Time: 1727198433
+    Total Bytes in Backup: 268641563
+    Unsupported Bytes: 107560960
+    Unsupported Percentage: 40%
+
+    Job Statistics:
+        ALERT: 
+    Job ID: 86
+    Policy Name: 1043
+    Backup Server: 1043
+    Backupset ID: 1043-09.24.2024 at 01:20 PM-84-1
+    Error: 
+    Backup Time: 1727198403
+    Stats ID: 2
+    Indexing Status Messages: 
+    Infected: 0
