@@ -1,1 +1,1 @@
-{ "version": 2, "qid": 994, "qc_hash": 2644785229871137690, "count": 20, "responsive_count": 20, "family_count": 20, "expanded_count": 20, "max_count": -1, "estimate": 20, "atleast": 20, "atmost": 20, "cred": { "username": "admin", "raddr": "127.0.0.1", "local": 1, "projectid": 1, "privmask": 1099511627775, "unix_cred": 0, "rtime": 0, "error": 0, "sids": [ ], "comps": [ ], "hash": 0 }, "collection": null, "collectiontag": null, "subsettag": null }
+
